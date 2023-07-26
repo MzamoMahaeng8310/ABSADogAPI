@@ -1,0 +1,4 @@
+englishDescriptionVerify=retriever
+partyTypeEndPoint=https://dog.ceo/api/breeds/list/all
+partyTypeJSONPath=message.retriever
+VerifyRetrieverList=chesapeake

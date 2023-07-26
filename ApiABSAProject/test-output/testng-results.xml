@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9788" started-at="2023-07-26T02:57:03 CAT" finished-at="2023-07-26T02:57:13 CAT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9788" started-at="2023-07-26T02:57:03 CAT" finished-at="2023-07-26T02:57:13 CAT">
+      <class name="DogBreeds">
+        <test-method status="PASS" signature="preconditinDeclarations()[pri:0, instance:DogBreeds@86be70a]" name="preconditinDeclarations" is-config="true" duration-ms="282" started-at="2023-07-26T02:57:03 CAT" finished-at="2023-07-26T02:57:03 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preconditinDeclarations -->
+        <test-method status="PASS" signature="AllDogBreeds()[pri:1, instance:DogBreeds@86be70a]" name="AllDogBreeds" duration-ms="7515" started-at="2023-07-26T02:57:03 CAT" finished-at="2023-07-26T02:57:11 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllDogBreeds -->
+        <test-method status="PASS" signature="SubBreedsForRretriever()[pri:2, instance:DogBreeds@86be70a]" name="SubBreedsForRretriever" duration-ms="1179" started-at="2023-07-26T02:57:11 CAT" finished-at="2023-07-26T02:57:12 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubBreedsForRretriever -->
+        <test-method status="PASS" signature="VerifyRetrieverInTheList()[pri:3, instance:DogBreeds@86be70a]" name="VerifyRetrieverInTheList" duration-ms="520" started-at="2023-07-26T02:57:12 CAT" finished-at="2023-07-26T02:57:13 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRetrieverInTheList -->
+        <test-method status="PASS" signature="ProduceRandomImage()[pri:4, instance:DogBreeds@86be70a]" name="ProduceRandomImage" duration-ms="479" started-at="2023-07-26T02:57:13 CAT" finished-at="2023-07-26T02:57:13 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProduceRandomImage -->
+        <test-method status="PASS" signature="postScriptDeclarations()[pri:0, instance:DogBreeds@86be70a]" name="postScriptDeclarations" is-config="true" duration-ms="838" started-at="2023-07-26T02:57:13 CAT" finished-at="2023-07-26T02:57:14 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postScriptDeclarations -->
+      </class> <!-- DogBreeds -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
