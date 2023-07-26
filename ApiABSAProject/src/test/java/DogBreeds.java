@@ -14,7 +14,6 @@ import com.jayway.restassured.path.json.JsonPath;
 import com.jayway.restassured.response.Response;
 import Utils.TestData;
 public class DogBreeds {
-
 	ExtentHtmlReporter htlmReporter;
 	ExtentReports extent ;
 	ExtentTest  test;		
